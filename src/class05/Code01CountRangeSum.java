@@ -14,6 +14,16 @@ package class05;
  *      示例 2：
  *      输入：nums = [0], lower = 0, upper = 0
  *      输出：1
+ *
+ *      // 思路
+ *      1.求数组arr[]里累加和在[lower, upper]里的子数组个数
+ *      2.得到arr[]的累加和数组sum[],sum[]的i位置的数表示arr[]从0到i的累加和
+ *      3.arr[i,j]的累加和 等于 sum[j] - sum[i]
+ *      4.求数组arr[]里累加和在[lower, upper]里的子数组个数
+ *        可以转化为：
+ *        求sum[]数组里 sum[j] - sum[i]的值在[lower, upper]里的个数
+ *      5.要想 sum[j] - sum[i]的值在[lower, upper]里 则: sum[i] 在[sum[j] - upper, sum[j] - lower]里。
+ *        放到归并排序中进一步转化：查找左组存在于[sum[j] - upper, sum[j] - lower]的元素个数
  * @date 2023/2/4 22:11
  */
 public class Code01CountRangeSum {
@@ -50,9 +60,10 @@ public class Code01CountRangeSum {
         int ans = 0;
         int windowL = L;
         int windowR = L;
+        // 要想 sum[j] - sum[i]的值在[lower, upper]里 则: sum[i] 在[sum[j] - upper, sum[j] - lower]里。
+        // 放到归并排序中进一步转化：查找左组存在于[sum[j] - upper, sum[j] - lower]里的元素个数
         // 遍历累加计算以j结尾符合条件的子数组的数量  [windowL, windowR)
         for (int i = mid + 1; i <= R; i++) {
-            // 转化成在累加和数组中的左组
             long min = sum[i] - upper;
             long max = sum[i] - lower;
             while (windowR <= mid && sum[windowR] <= max){
