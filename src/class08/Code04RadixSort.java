@@ -41,6 +41,7 @@ public class Code04RadixSort {
      * @param digit 数组的最大值十进制位数
      */
     public static void radixSort(int[] arr, int L, int R, int digit){
+        // 0...9
         final int radix = 10;
         int i = 0, j = 0;
         int[] help = new int[R - L + 1];
@@ -49,10 +50,10 @@ public class Code04RadixSort {
             // 每次需要新生成的计数辅助数组
             int[] counts = new int[radix];
             // 10个空间
-            // count[0] 当前位(d位)是0的数字有多少个
-            // count[1] 当前位(d位)是(0和1)的数字有多少个
-            // count[2] 当前位(d位)是(0、1和2)的数字有多少个
-            // count[i] 当前位(d位)是(0~i)的数字有多少个
+            // count[0] 当前位(d位)<=0的数字有多少个
+            // count[1] 当前位(d位)<=1的数字有多少个
+            // count[2] 当前位(d位)<=2的数字有多少个
+            // count[i] 当前位(d位)<=i的数字有多少个
             for (i = L; i <= R ; i++) {
                 // 找到 arr[i] 第 d 位的数字
                 j = getDigit(arr[i], d);
