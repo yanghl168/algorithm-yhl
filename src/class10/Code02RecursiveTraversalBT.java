@@ -2,7 +2,7 @@ package class10;
 
 /**
  * @author yanghl
- * @Description:
+ * @Description: 二叉树的层序遍历(递归实现)
  * @date 2023/3/23 21:50
  */
 public class Code02RecursiveTraversalBT {
