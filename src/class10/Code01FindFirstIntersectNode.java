@@ -61,7 +61,7 @@ public class Code01FindFirstIntersectNode {
     }
 
     /**
-     * 如果两个链表都无环，返回第一个相交节点，如果不想交，返回null
+     * 如果两个链表都无环，返回第一个相交节点，如果不相交，返回null
      * @param head1
      * @param head2
      * @return
