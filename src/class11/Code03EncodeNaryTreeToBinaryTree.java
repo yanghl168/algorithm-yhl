@@ -1,13 +1,12 @@
 package class11;
 
-import javax.swing.event.TreeWillExpandListener;
-import java.io.CharArrayReader;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * @author yanghl
  * @Description: 本题测试链接：https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree
+ *               多叉树加码成二叉树与二叉树解码成多叉树
  * @date 2023/4/1 11:32
  */
 public class Code03EncodeNaryTreeToBinaryTree {
