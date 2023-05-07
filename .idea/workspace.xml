@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="纸条折痕问题">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm-yhl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/纸条折痕问题图1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Code01IsCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Code02IsBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Code03_IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Code04IsFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Code05MaxDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class12/Code06MaxSubBSTSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class13/Code03lowestAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class13/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/Code05BSNearLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code05BSNearLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class01/Code05BSNearRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code05BSNearRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class12/Code07PaperFolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11/Code07PaperFolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class12/纸条折痕问题图1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class12/纸条折痕问题图2.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2IPH9p4ymx7GGSfIipa8hbxp5gt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../si-tech-projects/cug_salemng" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.27015707" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\Project\algorithm-yhl\src\class12" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\Project\algorithm-yhl\src\class11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Code01IsCBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class12.Code01IsCBT" />
+      <module name="algorithm-yhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03lowestAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class13.Code03lowestAncestor" />
+      <module name="algorithm-yhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code05MaxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class12.Code05MaxDistance" />
+      <module name="algorithm-yhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code06MaxSubBSTSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class12.Code06MaxSubBSTSize" />
+      <module name="algorithm-yhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class13.Test" />
+      <module name="algorithm-yhl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Code05MaxDistance" />
+      <item itemvalue="Application.Code06MaxSubBSTSize" />
+      <item itemvalue="Application.Code01IsCBT" />
+      <item itemvalue="Application.Code03lowestAncestor" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Code03lowestAncestor" />
+        <item itemvalue="Application.Code01IsCBT" />
+        <item itemvalue="Application.Code06MaxSubBSTSize" />
+        <item itemvalue="Application.Code05MaxDistance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="" />
+      <created>1670076150509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670076150509</updated>
+      <workItem from="1670076152013" duration="2779000" />
+      <workItem from="1670082563609" duration="610000" />
+      <workItem from="1670166855136" duration="1003000" />
+      <workItem from="1670235111687" duration="4000" />
+      <workItem from="1670249208437" duration="2600000" />
+      <workItem from="1670329159330" duration="3272000" />
+      <workItem from="1670375002080" duration="296000" />
+      <workItem from="1670414207618" duration="634000" />
+      <workItem from="1670504286567" duration="1702000" />
+      <workItem from="1670507703853" duration="1927000" />
+      <workItem from="1670597388973" duration="2238000" />
+      <workItem from="1670853359292" duration="2122000" />
+      <workItem from="1670893289465" duration="221000" />
+      <workItem from="1670942934627" duration="2816000" />
+      <workItem from="1670981593789" duration="131000" />
+      <workItem from="1671029773181" duration="2425000" />
+      <workItem from="1671066071881" duration="291000" />
+      <workItem from="1671102145607" duration="2000" />
+      <workItem from="1671113278503" duration="1452000" />
+      <workItem from="1671201079600" duration="2981000" />
+      <workItem from="1671244017061" duration="53000" />
+      <workItem from="1671247524399" duration="5802000" />
+      <workItem from="1671289463414" duration="15000" />
+      <workItem from="1671289506921" duration="1485000" />
+      <workItem from="1671369084238" duration="2522000" />
+      <workItem from="1671447611329" duration="612000" />
+      <workItem from="1671670873548" duration="339000" />
+      <workItem from="1672394812088" duration="61000" />
+      <workItem from="1672646996406" duration="1853000" />
+      <workItem from="1672708193521" duration="728000" />
+      <workItem from="1672880192304" duration="1703000" />
+      <workItem from="1673002405789" duration="6000" />
+      <workItem from="1673096184800" duration="765000" />
+      <workItem from="1673151747528" duration="1485000" />
+      <workItem from="1673155701576" duration="1149000" />
+      <workItem from="1673165003530" duration="1386000" />
+      <workItem from="1675073031068" duration="21000" />
+      <workItem from="1675087347591" duration="2539000" />
+      <workItem from="1675126483991" duration="286000" />
+      <workItem from="1675160247147" duration="121000" />
+      <workItem from="1675160400177" duration="2000" />
+      <workItem from="1675168212497" duration="6216000" />
+      <workItem from="1675254950116" duration="2846000" />
+      <workItem from="1675299514509" duration="605000" />
+      <workItem from="1675337642976" duration="4284000" />
+      <workItem from="1675385543103" duration="695000" />
+      <workItem from="1675434595406" duration="2138000" />
+      <workItem from="1675515012348" duration="5177000" />
+      <workItem from="1675565397448" duration="8268000" />
+      <workItem from="1675645074472" duration="368000" />
+      <workItem from="1675687483611" duration="599000" />
+      <workItem from="1675767678583" duration="69000" />
+      <workItem from="1675772347312" duration="590000" />
+      <workItem from="1675818586439" duration="754000" />
+      <workItem from="1675839247935" duration="651000" />
+      <workItem from="1675850320066" duration="249000" />
+      <workItem from="1675854122576" duration="4493000" />
+      <workItem from="1675921740095" duration="893000" />
+      <workItem from="1675951173656" duration="2319000" />
+      <workItem from="1675991540187" duration="468000" />
+      <workItem from="1676167798453" duration="844000" />
+      <workItem from="1676250655150" duration="941000" />
+      <workItem from="1676294762879" duration="1861000" />
+      <workItem from="1676336555308" duration="65000" />
+      <workItem from="1676458943659" duration="107000" />
+      <workItem from="1676469609133" duration="1043000" />
+      <workItem from="1676509271923" duration="781000" />
+      <workItem from="1676554796067" duration="6077000" />
+      <workItem from="1676562932550" duration="100000" />
+      <workItem from="1676595433375" duration="2234000" />
+      <workItem from="1676693917759" duration="3749000" />
+      <workItem from="1676789315456" duration="10812000" />
+      <workItem from="1676854914122" duration="58000" />
+      <workItem from="1676899760940" duration="1405000" />
+      <workItem from="1676941550628" duration="100000" />
+      <workItem from="1676987225246" duration="4187000" />
+      <workItem from="1677027512587" duration="851000" />
+      <workItem from="1677065846865" duration="33000" />
+      <workItem from="1677073127033" duration="1249000" />
+      <workItem from="1677114212578" duration="313000" />
+      <workItem from="1677158103544" duration="5437000" />
+      <workItem from="1677204681041" duration="72000" />
+      <workItem from="1677289468250" duration="3008000" />
+      <workItem from="1677505967463" duration="5040000" />
+      <workItem from="1677546180343" duration="1456000" />
+      <workItem from="1677591400181" duration="5362000" />
+      <workItem from="1677633043837" duration="1099000" />
+      <workItem from="1677680383989" duration="764000" />
+      <workItem from="1677719901045" duration="776000" />
+      <workItem from="1677722083991" duration="285000" />
+      <workItem from="1677916143140" duration="4914000" />
+      <workItem from="1678107697693" duration="2099000" />
+      <workItem from="1678151704409" duration="37000" />
+      <workItem from="1678184347408" duration="11000" />
+      <workItem from="1678196019411" duration="4989000" />
+      <workItem from="1678238050143" duration="425000" />
+      <workItem from="1678450921886" duration="4684000" />
+      <workItem from="1678502512233" duration="5446000" />
+      <workItem from="1678701674588" duration="110000" />
+      <workItem from="1678716574157" duration="3533000" />
+      <workItem from="1678756352610" duration="511000" />
+      <workItem from="1678800238154" duration="4746000" />
+      <workItem from="1678842794518" duration="844000" />
+      <workItem from="1678976810926" duration="874000" />
+      <workItem from="1679015292377" duration="589000" />
+      <workItem from="1679059919472" duration="5355000" />
+      <workItem from="1679133456647" duration="659000" />
+      <workItem from="1679192315776" duration="1176000" />
+      <workItem from="1679274890292" duration="214000" />
+      <workItem from="1679400935380" duration="597000" />
+      <workItem from="1679403839582" duration="7092000" />
+      <workItem from="1679447427664" duration="229000" />
+      <workItem from="1679578830477" duration="3584000" />
+      <workItem from="1679619997925" duration="249000" />
+      <workItem from="1679662076626" duration="1476000" />
+      <workItem from="1679880045424" duration="5705000" />
+      <workItem from="1679965928270" duration="2297000" />
+      <workItem from="1680015511842" duration="713000" />
+      <workItem from="1680052077191" duration="5507000" />
+      <workItem from="1680087716847" duration="10000" />
+      <workItem from="1680139038053" duration="598000" />
+      <workItem from="1680144916360" duration="1810000" />
+      <workItem from="1680174668834" duration="11000" />
+      <workItem from="1680187550286" duration="363000" />
+      <workItem from="1680225335793" duration="2470000" />
+      <workItem from="1680261261996" duration="18000" />
+      <workItem from="1680312531140" duration="5347000" />
+      <workItem from="1680338533636" duration="409000" />
+      <workItem from="1680362027959" duration="971000" />
+      <workItem from="1680403915755" duration="704000" />
+      <workItem from="1680483908155" duration="2085000" />
+      <workItem from="1680516641931" duration="28000" />
+      <workItem from="1680527435979" duration="2991000" />
+      <workItem from="1680571190019" duration="1915000" />
+      <workItem from="1680603266765" duration="11000" />
+      <workItem from="1680603291144" duration="27000" />
+      <workItem from="1680608937677" duration="3429000" />
+      <workItem from="1680661427829" duration="5092000" />
+      <workItem from="1680709432944" duration="17000" />
+      <workItem from="1680742996513" duration="2333000" />
+      <workItem from="1680747117602" duration="141000" />
+      <workItem from="1680748968174" duration="163000" />
+      <workItem from="1680781750409" duration="13000" />
+      <workItem from="1680830232226" duration="1907000" />
+      <workItem from="1680873977553" duration="1284000" />
+      <workItem from="1680926075293" duration="1362000" />
+      <workItem from="1681053443480" duration="728000" />
+      <workItem from="1681089839763" duration="1409000" />
+      <workItem from="1681127750609" duration="1916000" />
+      <workItem from="1681175799203" duration="3204000" />
+      <workItem from="1681210774629" duration="43000" />
+      <workItem from="1681227145494" duration="393000" />
+      <workItem from="1681262406868" duration="1552000" />
+      <workItem from="1681304075621" duration="65000" />
+      <workItem from="1681349585167" duration="609000" />
+      <workItem from="1681398277477" duration="1271000" />
+      <workItem from="1681434536750" duration="282000" />
+      <workItem from="1681694167870" duration="3210000" />
+      <workItem from="1681726332430" duration="31000" />
+      <workItem from="1681779875737" duration="3428000" />
+      <workItem from="1681815766974" duration="20000" />
+      <workItem from="1681866941382" duration="2223000" />
+      <workItem from="1681953066589" duration="1574000" />
+      <workItem from="1682000708924" duration="652000" />
+      <workItem from="1682001949770" duration="56000" />
+      <workItem from="1682002025724" duration="913000" />
+      <workItem from="1682004164760" duration="9000" />
+      <workItem from="1682040322887" duration="492000" />
+      <workItem from="1682247240461" duration="55000" />
+      <workItem from="1682258241594" duration="1536000" />
+      <workItem from="1682261122607" duration="475000" />
+      <workItem from="1682262250926" duration="666000" />
+      <workItem from="1682300039959" duration="183000" />
+      <workItem from="1682345700335" duration="979000" />
+      <workItem from="1682349133268" duration="51000" />
+      <workItem from="1682349202420" duration="349000" />
+      <workItem from="1682349575107" duration="412000" />
+      <workItem from="1682350251189" duration="642000" />
+      <workItem from="1682385055070" duration="922000" />
+      <workItem from="1682386192466" duration="238000" />
+      <workItem from="1682604154014" duration="814000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1672647477927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672647477927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="在数组中求最大值（递归）">
+      <created>1673165604450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673165604450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="归并排序">
+      <created>1675174644112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675174644112</updated>
+    </task>
+    <task id="LOCAL-00004" summary="归并排序">
+      <created>1675436750666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675436750666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="归并排序-求数组里累加和为指定区间内的子数组个数">
+      <created>1675523218031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675523218031</updated>
+    </task>
+    <task id="LOCAL-00006" summary="归并排序-求数组里累加和为指定区间内的子数组个数">
+      <created>1675524359032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675524359032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="快排">
+      <created>1675645422614</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675645422614</updated>
+    </task>
+    <task id="LOCAL-00008" summary="快排的递归与非递归">
+      <created>1676819643563</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676819643606</updated>
+    </task>
+    <task id="LOCAL-00009" summary="堆、堆排序">
+      <created>1676819665900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676819665900</updated>
+    </task>
+    <task id="LOCAL-00010" summary="堆、手写增强堆">
+      <created>1677633980734</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677633980734</updated>
+    </task>
+    <task id="LOCAL-00011" summary="前缀树、基数排序">
+      <created>1678199731073</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678199731073</updated>
+    </task>
+    <task id="LOCAL-00012" summary="基数排序">
+      <created>1678756783797</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678756783797</updated>
+    </task>
+    <task id="LOCAL-00013" summary="链表中点、链表回文">
+      <created>1678756809274</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678756809274</updated>
+    </task>
+    <task id="LOCAL-00014" summary="按照给定值将链表分为小于区，等于区，大于区三个部分">
+      <created>1679067049871</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679067049871</updated>
+    </task>
+    <task id="LOCAL-00015" summary="复制带随机指针的链表">
+      <created>1679067073477</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679067073477</updated>
+    </task>
+    <task id="LOCAL-00016" summary="查找有环或无环的两条链表的相交结点">
+      <created>1679581956115</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679581956115</updated>
+    </task>
+    <task id="LOCAL-00017" summary="二叉树的层序遍历">
+      <created>1679581983608</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679581983608</updated>
+    </task>
+    <task id="LOCAL-00018" summary="二叉树的层序遍历(非递归实现)">
+      <created>1679883555392</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679883555392</updated>
+    </task>
+    <task id="LOCAL-00019" summary="二叉树的按层遍历">
+      <created>1679966853382</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679966853382</updated>
+    </task>
+    <task id="LOCAL-00020" summary="二叉树的序列化">
+      <created>1680338373285</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680338373285</updated>
+    </task>
+    <task id="LOCAL-00021" summary="多叉树加码成二叉树与二叉树解码成多叉树">
+      <created>1680338436746</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680338436746</updated>
+    </task>
+    <task id="LOCAL-00022" summary="计算二叉树的最大宽度">
+      <created>1680534375656</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680534375656</updated>
+    </task>
+    <task id="LOCAL-00023" summary="二叉树的后继结点">
+      <created>1680661688539</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680661688539</updated>
+    </task>
+    <task id="LOCAL-00024" summary="纸条折痕问题">
+      <created>1680663637294</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680663637294</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="f2fe1757-3137-4dae-a09e-434f2fb3b83e">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="在数组中求最大值（递归）" />
+    <MESSAGE value="归并排序" />
+    <MESSAGE value="归并排序-求数组里累加和为指定区间内的子数组个数" />
+    <MESSAGE value="快排" />
+    <MESSAGE value="快排的递归与非递归" />
+    <MESSAGE value="堆、堆排序" />
+    <MESSAGE value="堆、手写增强堆" />
+    <MESSAGE value="前缀树、基数排序" />
+    <MESSAGE value="基数排序" />
+    <MESSAGE value="链表中点、链表回文" />
+    <MESSAGE value="按照给定值将链表分为小于区，等于区，大于区三个部分(借助数组法)" />
+    <MESSAGE value="按照给定值将链表分为小于区，等于区，大于区三个部分" />
+    <MESSAGE value="复制带随机指针的链表" />
+    <MESSAGE value="查找有环或无环的两条链表的相交结点" />
+    <MESSAGE value="二叉树的层序遍历" />
+    <MESSAGE value="二叉树的层序遍历(非递归实现)" />
+    <MESSAGE value="二叉树的按层遍历" />
+    <MESSAGE value="二叉树的序列化" />
+    <MESSAGE value="多叉树加码成二叉树与二叉树解码成多叉树" />
+    <MESSAGE value="计算二叉树的最大宽度" />
+    <MESSAGE value="二叉树的后继结点" />
+    <MESSAGE value="纸条折痕问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="纸条折痕问题" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm_yhl$Code03KM.ic" NAME="Code03KM Coverage Results" MODIFIED="1670945587762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>class02.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @author yanghl
- * @Description:
+ * @Description:  在arr上，找满足 >=value 的最左位置
  * @date 2022/12/5 22:30
  */
 public class Code05BSNearLeft {
