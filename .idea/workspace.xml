@@ -1,36 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="纸条折痕问题">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm-yhl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class11/纸条折痕问题图1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class12/Code01IsCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class12/Code02IsBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class12/Code03_IsBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class12/Code04IsFull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class12/Code05MaxDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class12/Code06MaxSubBSTSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class13/Code03lowestAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class13/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class13/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01/Code05BSNearLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code05BSNearLeft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class01/Code05BSNearRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class01/Code05BSNearRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class12/Code07PaperFolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11/Code07PaperFolding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class12/纸条折痕问题图1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class12/纸条折痕问题图2.png" beforeDir="false" />
+    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="something">
+      <change afterPath="$PROJECT_DIR$/src/class13/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class13/Code04MaxHappy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +29,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="ProjectId" id="2IPH9p4ymx7GGSfIipa8hbxp5gt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -125,12 +103,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../si-tech-projects/cug_salemng" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm-msb" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.27015707" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -143,7 +121,7 @@
       <recent name="V:\Project\algorithm-yhl\src\class11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Code04MaxHappy">
     <configuration name="Code01IsCBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class12.Code01IsCBT" />
       <module name="algorithm-yhl" />
@@ -170,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code05MaxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class12.Code05MaxDistance" />
+    <configuration name="Code04MaxHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class13.Code04MaxHappy" />
       <module name="algorithm-yhl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class12.*" />
+          <option name="PATTERN" value="class13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,19 +188,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code05MaxDistance" />
       <item itemvalue="Application.Code06MaxSubBSTSize" />
       <item itemvalue="Application.Code01IsCBT" />
       <item itemvalue="Application.Code03lowestAncestor" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Code04MaxHappy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code04MaxHappy" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Code03lowestAncestor" />
         <item itemvalue="Application.Code01IsCBT" />
         <item itemvalue="Application.Code06MaxSubBSTSize" />
-        <item itemvalue="Application.Code05MaxDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -415,6 +393,13 @@
       <workItem from="1682385055070" duration="922000" />
       <workItem from="1682386192466" duration="238000" />
       <workItem from="1682604154014" duration="814000" />
+      <workItem from="1683468946363" duration="4502000" />
+      <workItem from="1683509483421" duration="12000" />
+      <workItem from="1683682781866" duration="602000" />
+      <workItem from="1683724808375" duration="1254000" />
+      <workItem from="1683729900292" duration="107000" />
+      <workItem from="1683730026607" duration="2769000" />
+      <workItem from="1683767347045" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1672647477927</created>
@@ -584,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680663637294</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="something">
+      <created>1683469093803</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683469093803</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,7 +623,8 @@
     <MESSAGE value="计算二叉树的最大宽度" />
     <MESSAGE value="二叉树的后继结点" />
     <MESSAGE value="纸条折痕问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="纸条折痕问题" />
+    <MESSAGE value="something" />
+    <option name="LAST_COMMIT_MESSAGE" value="something" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
