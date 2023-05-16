@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="something">
-      <change afterPath="$PROJECT_DIR$/src/class13/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class13/Code04MaxHappy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="最大快乐值问题">
+      <change afterPath="$PROJECT_DIR$/src/class13/Code05LowestLexicography.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +119,7 @@
       <recent name="V:\Project\algorithm-yhl\src\class11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code04MaxHappy">
+  <component name="RunManager" selected="Application.Code05LowestLexicography">
     <configuration name="Code01IsCBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class12.Code01IsCBT" />
       <module name="algorithm-yhl" />
@@ -161,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code06MaxSubBSTSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class12.Code06MaxSubBSTSize" />
+    <configuration name="Code05LowestLexicography" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class13.Code05LowestLexicography" />
       <module name="algorithm-yhl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class12.*" />
+          <option name="PATTERN" value="class13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,19 +186,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code06MaxSubBSTSize" />
       <item itemvalue="Application.Code01IsCBT" />
       <item itemvalue="Application.Code03lowestAncestor" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Code04MaxHappy" />
+      <item itemvalue="Application.Code05LowestLexicography" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code05LowestLexicography" />
         <item itemvalue="Application.Code04MaxHappy" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Code03lowestAncestor" />
         <item itemvalue="Application.Code01IsCBT" />
-        <item itemvalue="Application.Code06MaxSubBSTSize" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +397,9 @@
       <workItem from="1683724808375" duration="1254000" />
       <workItem from="1683729900292" duration="107000" />
       <workItem from="1683730026607" duration="2769000" />
-      <workItem from="1683767347045" duration="1704000" />
+      <workItem from="1683767347045" duration="1976000" />
+      <workItem from="1684159428940" duration="1659000" />
+      <workItem from="1684198778782" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1672647477927</created>
@@ -576,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683469093803</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="最大快乐值问题">
+      <created>1683769306342</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683769306342</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +631,8 @@
     <MESSAGE value="二叉树的后继结点" />
     <MESSAGE value="纸条折痕问题" />
     <MESSAGE value="something" />
-    <option name="LAST_COMMIT_MESSAGE" value="something" />
+    <MESSAGE value="最大快乐值问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="最大快乐值问题" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
