@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="最大快乐值问题">
-      <change afterPath="$PROJECT_DIR$/src/class13/Code05LowestLexicography.java" afterDir="false" />
+    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="字符串数组全量拼接，返回字典序最小的结果">
+      <change afterPath="$PROJECT_DIR$/src/class14/Code03BestArrange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,13 +119,13 @@
       <recent name="V:\Project\algorithm-yhl\src\class11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code05LowestLexicography">
-    <configuration name="Code01IsCBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class12.Code01IsCBT" />
+  <component name="RunManager" selected="Application.Code03BestArrange">
+    <configuration name="Code03BestArrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class14.Code03BestArrange" />
       <module name="algorithm-yhl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class12.*" />
+          <option name="PATTERN" value="class14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,19 +186,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code01IsCBT" />
       <item itemvalue="Application.Code03lowestAncestor" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Code04MaxHappy" />
       <item itemvalue="Application.Code05LowestLexicography" />
+      <item itemvalue="Application.Code03BestArrange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03BestArrange" />
         <item itemvalue="Application.Code05LowestLexicography" />
         <item itemvalue="Application.Code04MaxHappy" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Code03lowestAncestor" />
-        <item itemvalue="Application.Code01IsCBT" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +399,8 @@
       <workItem from="1683730026607" duration="2769000" />
       <workItem from="1683767347045" duration="1976000" />
       <workItem from="1684159428940" duration="1659000" />
-      <workItem from="1684198778782" duration="2630000" />
+      <workItem from="1684198778782" duration="2886000" />
+      <workItem from="1684286010148" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1672647477927</created>
@@ -583,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683769306342</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="字符串数组全量拼接，返回字典序最小的结果">
+      <created>1684201809383</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684201809383</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +615,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="在数组中求最大值（递归）" />
     <MESSAGE value="归并排序" />
     <MESSAGE value="归并排序-求数组里累加和为指定区间内的子数组个数" />
@@ -632,7 +639,8 @@
     <MESSAGE value="纸条折痕问题" />
     <MESSAGE value="something" />
     <MESSAGE value="最大快乐值问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="最大快乐值问题" />
+    <MESSAGE value="字符串数组全量拼接，返回字典序最小的结果" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串数组全量拼接，返回字典序最小的结果" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
