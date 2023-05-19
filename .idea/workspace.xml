@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="字符串数组全量拼接，返回字典序最小的结果">
-      <change afterPath="$PROJECT_DIR$/src/class14/Code03BestArrange.java" afterDir="false" />
+    <list default="true" id="5e16949f-fb2c-425f-8ac3-9a9bf20710ed" name="Changes" comment="会议安排问题-贪心">
+      <change afterPath="$PROJECT_DIR$/src/class14/Code02LessMoneySplitGold.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,9 +119,9 @@
       <recent name="V:\Project\algorithm-yhl\src\class11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code03BestArrange">
-    <configuration name="Code03BestArrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class14.Code03BestArrange" />
+  <component name="RunManager" selected="Application.Code02LessMoneySplitGold">
+    <configuration name="Code02LessMoneySplitGold" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class14.Code02LessMoneySplitGold" />
       <module name="algorithm-yhl" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03lowestAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class13.Code03lowestAncestor" />
+    <configuration name="Code03BestArrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class14.Code03BestArrange" />
       <module name="algorithm-yhl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class13.*" />
+          <option name="PATTERN" value="class14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,19 +186,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code03lowestAncestor" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Code04MaxHappy" />
       <item itemvalue="Application.Code05LowestLexicography" />
       <item itemvalue="Application.Code03BestArrange" />
+      <item itemvalue="Application.Code02LessMoneySplitGold" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02LessMoneySplitGold" />
         <item itemvalue="Application.Code03BestArrange" />
         <item itemvalue="Application.Code05LowestLexicography" />
         <item itemvalue="Application.Code04MaxHappy" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Code03lowestAncestor" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +400,9 @@
       <workItem from="1683767347045" duration="1976000" />
       <workItem from="1684159428940" duration="1659000" />
       <workItem from="1684198778782" duration="2886000" />
-      <workItem from="1684286010148" duration="2794000" />
+      <workItem from="1684286010148" duration="3154000" />
+      <workItem from="1684372673458" duration="3555000" />
+      <workItem from="1684458753058" duration="3535000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1672647477927</created>
@@ -591,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684201809383</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="会议安排问题-贪心">
+      <created>1684289854047</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684289854047</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +624,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="在数组中求最大值（递归）" />
     <MESSAGE value="归并排序" />
     <MESSAGE value="归并排序-求数组里累加和为指定区间内的子数组个数" />
     <MESSAGE value="快排" />
@@ -640,7 +648,8 @@
     <MESSAGE value="something" />
     <MESSAGE value="最大快乐值问题" />
     <MESSAGE value="字符串数组全量拼接，返回字典序最小的结果" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串数组全量拼接，返回字典序最小的结果" />
+    <MESSAGE value="会议安排问题-贪心" />
+    <option name="LAST_COMMIT_MESSAGE" value="会议安排问题-贪心" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -649,6 +658,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm_yhl$Code03KM.ic" NAME="Code03KM Coverage Results" MODIFIED="1670945587762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>class02.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm_yhl$Code03BestArrange.ic" NAME="Code03BestArrange Coverage Results" MODIFIED="1684289677186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>class14.*</FILTER>
     </SUITE>
   </component>
 </project>
