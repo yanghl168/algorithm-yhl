@@ -11,7 +11,7 @@ import java.util.Comparator;
  *    请问他该如何安排才能使得安排的会议数量最多。
  * @date: 2023/5/17 9:14
  */
-public class Code03BestArrange {
+public class Code01BestArrange {
     public static class Program{
         int start;
         int end;

@@ -17,7 +17,7 @@ import java.util.PriorityQueue;
  *      输出： 你最后获得的最大钱数。
  * @date: 2023/5/22 10:07
  */
-public class Code04IPO {
+public class Code03IPO {
     public static class Program{
         public int profit;
         public int cost;
